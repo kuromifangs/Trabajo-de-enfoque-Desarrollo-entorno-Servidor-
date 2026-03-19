@@ -1,4 +1,4 @@
-<?php
+<?php //prueba webhook
 include './functions/configDb.php';
 
 function obtenerProductos() {
